@@ -1,1 +1,14 @@
 # Superstore-sales-data
+1.Collected the sales data from Superstore CSV file.
+2.Opened Power BI and imported the file.
+3.cleaned the data to remove blanks or errors.
+4.Used charts and graphs to show
+
+ Sales and Profit by Year (Line chart)
+ Sales by Customer Name (Bar chart)
+ Sales by Sub-Category (Column chart)
+ Profit by Region (Map or Tree Map)
+ Profit by Segment (Pie chart)
+ Profit by State (Scatter or Column chart)
+
+5.Designed the Dashboard by arranging visuals neatly on one page by Using filters or slicers for Year, Region, or Category. Applied consistent colors and labels for clarity
